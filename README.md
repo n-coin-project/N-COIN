@@ -57,3 +57,24 @@ It signifies that while the network appears as a single entity ("n"), its streng
 /docs
     ├── [N_COIN_Stateless_Consensus_Currency(English).pdf](./docs/N_COIN_Stateless_Consensus_Currency(English).pdf)
     └── [N_COIN_Stateless_Consensus_Currency(Japanese).pdf](./docs/N_COIN_Stateless_Consensus_Currency(Japanese).pdf)
+
+---
+
+## ⚖️ License
+This project is published under the **MIT License**.  
+*(Subject to final definition by the author, NS.)*
+
+---
+
+## 🙏 Acknowledgements
+N-COIN is inspired by the pioneering work of:
+* **Isamu Kaneko** — For expanding the possibilities of P2P technology.
+* **Satoshi Nakamoto** — For establishing decentralized value exchange.
+
+*Their contributions made this project possible.*
+
+---
+
+## 📬 Contact
+The author publishes under the pseudonym **NS**.  
+No personal information is associated with this project. Integrity remains in the code.
