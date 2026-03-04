@@ -48,10 +48,10 @@ These documents together provide both the **theoretical foundation** and **empir
 
 ## Repository Structure
 /docs
-    ├── [N_COIN_Stateless_Consensus_Currency(English).pdf](./docs/N_COIN_Stateless_Consensus_Currency(English).pdf)
-    └── [N_COIN_Stateless_Consensus_Currency(Japanese).pdf](./docs/N_COIN_Stateless_Consensus_Currency(Japanese).pdf)
-    └── [N_COIN_Report2_Simulation(English).pdf](./docs/N_COIN_Report2_Simulation(English).pdf)
-    └── [N_COIN_Report2_Simulation(Japanese).pdf](./docs/N_COIN_Report2_Simulation(Japanese).pdf)
+- [N_COIN_Stateless_Consensus_Currency(English).pdf](./docs/N_COIN_Stateless_Consensus_Currency(English).pdf)
+- [N_COIN_Stateless_Consensus_Currency(Japanese).pdf](./docs/N_COIN_Stateless_Consensus_Currency(Japanese).pdf)
+- [N_COIN_Report2_Simulation(English).pdf](./docs/N_COIN_Report2_Simulation(English).pdf)
+- [N_COIN_Report2_Simulation(Japanese).pdf](./docs/N_COIN_Report2_Simulation(Japanese).pdf)
 ---
 
 ## Conceptual Inspiration
