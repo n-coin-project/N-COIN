@@ -32,15 +32,12 @@ This design eliminates storage bloat, enables smartphone‑level operation, and 
 All research papers are available in the `docs/` directory.
 
 ### Core Protocol Specification
-- **N‑COIN: Stateless Consensus Currency (English)**  
+- **N‑COIN: Stateless Consensus Currency (English/Japanese)**  
   Formal definition of UID, SUP, trust‑score model, security assumptions, and stateless design.
 
 ### Simulation Studies
-- **N‑COIN Report II: Simulation & Resilience Evaluation (Japanese)**  
+- **N‑COIN Report II: Simulation & Resilience Evaluation (English/Japanese)**  
   1,000,000‑round practical simulation under realistic and adversarial conditions.
-
-- **N‑COIN Report II: Simulation & Resilience Evaluation (English)**  
-  English version of the simulation report for international readers.
 
 These documents together provide both the **theoretical foundation** and **empirical validation** of the N‑COIN protocol.
 
