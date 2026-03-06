@@ -1,16 +1,19 @@
-# N‑COIN: Stateless Consensus Currency  
-A new value‑exchange model based on Seven‑Party Unanimous Protocol (SUP)
+# N‑COIN: Stateless Consensus Currency
 
-N‑COIN is a stateless digital currency protocol that maintains **no historical ledger**.  
-Instead of accumulating past transactions like traditional blockchains, N‑COIN updates only the **latest state** using a Seven‑Party Unanimous Protocol (SUP) combined with:
+Most blockchain systems collapse under the weight of historical data, validator centralization, and ever‑growing storage requirements.  
+N‑COIN takes a different path: it eliminates the entire concept of a historical ledger.
 
+Using the Seven‑Party Unanimous Protocol (SUP), N‑COIN updates only the latest state — no blocks, no chain, no accumulated history.  
+This stateless architecture enables smartphone‑level operation while maintaining strong adversarial resilience.
+
+N‑COIN combines:
 - Device‑rooted UID keys  
 - VRF‑based mediator selection  
 - MuSig2 aggregated signatures  
 - Trust‑score incentives  
 - Stateless verification with temporary hash retention  
 
-This design eliminates storage bloat, enables smartphone‑level operation, and provides strong resistance to fraud—even under adversarial conditions.
+Together, these components form a lightweight, fraud‑resistant digital currency model that remains stable even under hostile network conditions.
 
 ---
 
